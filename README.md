@@ -39,3 +39,5 @@ Further, the Barista Espresso and Brewed Black Tea are our most popular products
 in customer traffic each hour and degrade in performance from one location to another. These findings suggest opportunities to improve staff and inventory capacity
 during the peak, concentrate advertisement of the store’s best-selling products, and orchestrate sales strategies according to the store’s need. This three-pronged 
 approach will increase productivity, ensure customer satisfaction, and foster the business’s growth
+
+Feel free to reach out if you have any questions or feedback. Enjoy your exploration of the project!
