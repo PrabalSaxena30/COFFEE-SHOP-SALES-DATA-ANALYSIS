@@ -12,7 +12,11 @@
    The analysis offers insights into Total Sales by Store Location, Top Selling Products, and other valuable business metrics.
 
 # **Key Objectives**
-
+   * Analyze sales trends to identify peak sales periods and optimize revenue during those times.
+   * Understand customer preferences for top-selling products to inform inventory management and staff training.
+   * Adjust staff scheduling and inventory based on weekly and hourly sales patterns to ensure optimal resources and customer satisfaction.
+   * Evaluate store performance across different locations to develop targeted strategies for improvement.
+# **Pre-Processing Involves**
 Product Data Extraction 
    Our analysis involved extracting crucial product details:
    - Size: Extracted product sizes using power query editor.
