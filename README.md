@@ -1,6 +1,11 @@
 <img width="924" alt="COFFEE SHOP SALES DATA ANALYSIS" src="https://github.com/PrabalSaxena30/COFFEE-SHOP-SALES-DATA-ANALYSIS/assets/163385058/1dc09f29-111d-46de-b93f-fd3ab17c32c9">
+
 [RAW_DATA.xlsx](https://github.com/PrabalSaxena30/COFFEE-SHOP-SALES-DATA-ANALYSIS/files/15285654/RAW_DATA.xlsx)
+
 [Coffee Shop Data Analytics Project 1.xlsx](https://github.com/PrabalSaxena30/COFFEE-SHOP-SALES-DATA-ANALYSIS/files/15285669/Coffee.Shop.Data.Analytics.Project.1.xlsx)                            
+
+[Coffee Shop Data Analytics Project Power Point Presentation.ppt](https://prabalsaxenaportfolio.my.canva.site/)
+
 
 (**#protected worksheet pwd: 1234567890** to edit the excel file.)
 
